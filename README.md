@@ -10,7 +10,7 @@ Originally developed in **August 2025** and later published on GitHub as part of
 
 This project was created for educational purposes to strengthen my problem-solving skills and practice writing clean, maintainable, and modular C++ code.
 
-It was developed during **Course 7** of the **Programming Advices** curriculum, a structured roadmap created by **Dr. Muhammad Abu-Hadhoud** to build strong programming fundamentals and advanced software development skills.
+It was developed during **Course 7&8** of the **Programming Advices** curriculum, a structured roadmap created by **Dr. Muhammad Abu-Hadhoud** to build strong programming fundamentals and advanced software development skills.
 
 ---
 
